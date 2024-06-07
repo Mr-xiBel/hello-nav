@@ -11,6 +11,10 @@ const Footer = () => (
         <a className="bener-link" href="https://ziyuanxiong.cn">
           <b> 资源熊 </b>
         </a>
+         & 
+        <a className="bener-link" href="https://xibel.cn">
+          <b> 西贝导航 </b>
+        </a>
         with
         <span className="heart"> ❤</span>
       </span>
