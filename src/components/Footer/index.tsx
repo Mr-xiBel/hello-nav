@@ -8,7 +8,7 @@ const Footer = () => (
     <div className="footer__copyright">
       <span className="vertical-center">
         Made by
-        <a className="bener-link" href="https://github.com/Heroor">
+        <a className="bener-link" href="https://ziyuanxiong.cn">
           <b> Bener </b>
         </a>
         with
