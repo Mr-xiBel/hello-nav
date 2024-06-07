@@ -9,7 +9,7 @@ const Footer = () => (
       <span className="vertical-center">
         Made by
         <a className="bener-link" href="https://ziyuanxiong.cn">
-          <b> Bener </b>
+          <b> 资源熊 </b>
         </a>
         with
         <span className="heart"> ❤</span>
